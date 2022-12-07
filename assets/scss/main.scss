@@ -1,26 +1,31 @@
 @import "variables";
 
-h1,h2,h3,h4,h5,h6{
-  font-family: 'c-bold', Helvetica, sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "c-bold", Helvetica, sans-serif;
   margin: 10px 0 10px 0;
   text-align: center;
 }
 
-h1{
+h1 {
   font-size: 2.2rem;
   line-height: 48px;
 }
 
-h2{
+h2 {
   font-size: 2rem;
 }
 
-h3{
+h3 {
   font-size: 2rem;
 }
 
-.font-weight-bold{
-  font-family: 'c-black', Helvetica, sans-serif;
+.font-weight-bold {
+  font-family: "c-black", Helvetica, sans-serif;
 }
 
 body {
@@ -29,12 +34,12 @@ body {
   color: #fff;
   background-color: #fff;
   border: calc(var(--body-border-width, 8px) * 1 / 1 + 0px) solid transparent;
-  font-family: 'c-book', Helvetica, sans-serif;
+  font-family: "c-book", Helvetica, sans-serif;
 
   &:after,
-  &:before{
+  &:before {
     z-index: 100;
-    content: '';
+    content: "";
     user-select: none;
     pointer-events: none;
     position: fixed;
@@ -49,17 +54,17 @@ body {
   }
 }
 
-a{
+a {
   text-decoration: none;
   color: #0eadff;
   transition: transform 0.3s ease;
 
-  &:hover{
+  &:hover {
     transform: scale(1.1);
   }
 }
 
-#store-banners{
+#store-banners {
   text-align: center;
 
   img {
@@ -71,12 +76,16 @@ section {
   min-height: calc(100vh - 32px);
   padding: 2rem 0;
 
-  h1,h2,h3,h4,p{
+  h1,
+  h2,
+  h3,
+  h4,
+  p {
     // text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
     text-shadow: -7px 6px 9px rgb(3, 0, 0);
   }
 
-  p{
+  p {
     font-size: 1.4rem;
     text-align: center;
   }
@@ -86,29 +95,29 @@ section {
     background-size: cover;
   }
 
-  &.blue{
+  &.blue {
     background-image: linear-gradient(45deg, #0eadff 0%, #2ee0c3 100%);
   }
 
-  &.orange{
+  &.orange {
     background-image: linear-gradient(45deg, #fe424d 0%, #fb964c 100%);
   }
 
-  &.yellow{
+  &.yellow {
     background-image: linear-gradient(45deg, #fead3b 0%, #ffca3c 100%);
   }
-  &.dark{
+  &.dark {
     background-image: linear-gradient(45deg, #22353f 0%, #2c4658 100%);
   }
-  &.voilet{
+  &.voilet {
     background-image: linear-gradient(45deg, #612dc2 0%, #ad4fd0 100%);
   }
 
-  &.green{
+  &.green {
     background-image: linear-gradient(45deg, #19ab67 0%, #19d47d 100%);
   }
 
-  .container{
+  .container {
     display: grid;
     grid-gap: 20px;
     justify-content: space-between;
@@ -122,13 +131,13 @@ section {
       padding-left: 20px;
     }
 
-    .device-mockup-holder{
+    .device-mockup-holder {
       position: relative;
       margin: 0 auto 2rem;
       text-align: center;
     }
 
-    .phone-illustration-holder{
+    .phone-illustration-holder {
       position: relative;
       z-index: 2;
 
@@ -136,7 +145,7 @@ section {
         width: 75%;
       }
 
-      .product-image{
+      .product-image {
         position: absolute;
         z-index: -1;
         top: 4%;
@@ -154,13 +163,24 @@ section {
 }
 
 @media only screen and (min-width: 900px) {
-  h1{ font-size: 4rem; line-height: 60px; }
-  h2 { font-size: 3rem; }
-  h1,h2,h3,h4,h5,h6,p{
+  h1 {
+    font-size: 4rem;
+    line-height: 60px;
+  }
+  h2 {
+    font-size: 3rem;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
     text-align: left !important;
   }
 
-  body{
+  body {
     border: calc(var(--body-border-width, 16px) * 1 / 1 + 0px) solid transparent;
 
     &::before,
@@ -169,8 +189,7 @@ section {
     }
   }
 
-
-  #store-banners{
+  #store-banners {
     text-align: left;
     margin: 55px 0;
 
@@ -179,11 +198,11 @@ section {
     }
   }
 
-  section{
+  section {
     // padding: 0;
     padding: 0;
   }
-  .container{
+  .container {
     grid-template-columns: 55% 45%;
     grid-gap: 0px;
 
@@ -195,7 +214,7 @@ section {
       img {
         width: 70% !important;
       }
-      .product-image{
+      .product-image {
         img {
           width: 100%;
         }
@@ -203,61 +222,61 @@ section {
     }
   }
 
-  article{
-    .postedOn{
+  article {
+    .postedOn {
       text-align: left !important;
     }
   }
 }
 
-.d-flex{
+.d-flex {
   display: flex;
   justify-content: center;
 
-  .align-middle{
+  .align-middle {
     align-self: center;
   }
 }
 
-footer{
+footer {
   padding: 60px 0 30px 0;
-  color: #6D5D8B;
+  color: #6d5d8b;
   text-align: center;
 
-  p{
+  p {
     text-align: center !important;
   }
 }
 
-.mx{
+.mx {
   margin: 0 8px;
   display: inline-block;
 }
 
 // Add extra styles
-.containerBasic{
+.containerBasic {
   width: 100%;
   max-width: 680px;
   margin: 10px auto;
   padding: 2em 0;
 
-  p{
+  p {
     font-size: 20px;
   }
 }
 
-.changelog{
-  .row{
+.changelog {
+  .row {
     padding: 10px 0 10px 0;
-    border-bottom : solid 1px #ededed;
-    color: rgba(0,0,0,0.8);
+    border-bottom: solid 1px #ededed;
+    color: rgba(0, 0, 0, 0.8);
 
     .badge {
       padding: 4px;
       border-radius: 4px;
       margin-right: 10px;
       display: inline-block;
-  
+
       &.fixed {
         background-color: #37da98;
         color: #fff;
@@ -288,19 +307,20 @@ footer{
   border-radius: 4px;
 }
 
-pre, code {
+pre,
+code {
   font-size: 16px !important;
   background: #fbfbfb !important;
   border-radius: 4px;
-  padding: 4px; 
+  padding: 4px;
 }
 
-blockquote{
+blockquote {
   border-left: solid 2px #ededed;
   padding-left: 10px;
 }
 
-.featuredImage{
+.featuredImage {
   width: 100%;
   max-width: 100%;
 }
@@ -312,10 +332,11 @@ article {
     margin: 20px auto;
   }
 
-  h1, h2 {
+  h1,
+  h2 {
     margin: 5px 0;
 
-    a{
+    a {
       color: #000;
 
       &:hover {
@@ -324,21 +345,21 @@ article {
     }
   }
 
-  .postedOn{
-    color: rgba(0,0,0,0.6);
+  .postedOn {
+    color: rgba(0, 0, 0, 0.6);
     text-align: center;
   }
 
-  .socialShare{
+  .socialShare {
     text-align: center;
     margin: 40px 0;
     display: block;
 
-    a{
+    a {
       color: #000;
       margin-right: 15px;
 
-      &:hover{
+      &:hover {
         text-decoration: underline;
       }
 
@@ -351,20 +372,20 @@ article {
   }
 }
 
-footer{
-  #socialIcons{
-    a{
+footer {
+  #socialIcons {
+    a {
       display: inline-block;
       color: #000;
       margin: 0px 10px;
 
-      i{
+      i {
         font-size: 22px;
       }
     }
   }
 }
 
-.float-right{
+.float-right {
   float: right;
 }
