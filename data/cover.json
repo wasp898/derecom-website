@@ -1,7 +1,7 @@
 {
-  "heading" : "",
-  "description" : "Experience all the colors of your favorite music.",
-  "backgroundImage" : "background-cover.jpeg",
-  "screenshot" : "NowPlaying.png",
-  "showAppBanners" : true
+  "heading": "",
+  "description": "Experience all the colors of your favorite music.",
+  "backgroundImage": "background-cover.jpeg",
+  "screenshot": "nowplaying.png",
+  "showAppBanners": true
 }
