@@ -1,6 +1,9 @@
 {{- partial "header.html" . -}}
 
 {{- partial "cover.html" . -}}
-{{- partial "slides.html" . -}}
+
+{{ if .Site.Params.showSecondSlide }}
+  {{- partial "slides.html" . -}}
+{{ end }}
 
 {{- partial "footer.html" . -}}

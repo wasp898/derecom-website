@@ -2,33 +2,10 @@
 {{- $config := .Site.Data.config -}}
   <footer>
     <div class="container">
-      <a href="{{.Site.BaseURL}}">
-        <img src="{{- .Site.BaseURL -}}img/{{$footer.logo}}" width="60px" alt="">
-      </a>
-      <br>
-      <br>
-      <!-- Add social icons here -->
-      <div id="socialIcons">
-        {{ range $key, $value := $config.social }}
-          {{ if $value }}
-          <a href="{{$value}}">
-            <i class="fab fa-{{$key}}"></i>
-          </a>
-          {{ end }}
-        {{ end }}
-      </div>
-      <!-- Social icons ends here -->
-      <br>
       {{- range $footer.links -}}
       <a href="{{- .href | absURL -}}" class="mx">{{- .text -}}</a>
       {{- end -}}
-      <br><br>
-      <!-- 
-        If you want to remove the below credit, consider purchasing 
-        the PRO version. Follow the link below
-        https://uicard.io/products/hugo-appyness
-      -->
-      Designed & Developed by <a href="https://uicard.io/">UICardio</a>
+      <br>
       <p>{{- .Site.Data.footer.text -}}</p>
     </div>
   </footer>

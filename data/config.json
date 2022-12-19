@@ -1,13 +1,13 @@
 {
-  "logo" : "logo.svg",
-  "logoColored" : "logo-colored.svg",
-  "name" : "Derecom Music Player",
-  "themeColor" : "#000",
-  "appLinks" : {
-    "appStore" : "https://apps.apple.com/it/app/derecom-music-player/id1469715862"
+  "logo": "logo.svg",
+  "logoColored": "logo-colored.svg",
+  "name": "Derecom Music Player",
+  "themeColor": "#000",
+  "appLinks": {
+    "appStore": "https://apps.apple.com/it/app/derecom-music-player/id1469715862",
+    "twitter": "https://twitter.com/DerecomApp"
   },
-  "social" : {
-    "email": "derecom.music@gmail.com",
-    "twitter" : "https://twitter.com/DerecomApp"
+  "social": {
+    "email": "derecom.music@gmail.com"
   }
 }
