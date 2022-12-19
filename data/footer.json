@@ -1,18 +1,22 @@
 {
-  "text" : "© 2019 Giuseppe Samela",
-  "logo" : "logo-black.svg",
-  "links" : [
+  "text": "© 2019 Giuseppe Samela",
+  "logo": "logo-black.svg",
+  "links": [
     {
-      "text" : "Home",
-      "href" : ""
+      "text": "Home",
+      "href": ""
     },
     {
-      "text" : "Terms of Use",
-      "href" : "terms/"
+      "text": "Contact",
+      "href": "mailto:derecom.music@gmail.com"
     },
     {
-      "text" : "Privacy Policy",
-      "href" : "privacy/"
+      "text": "Privacy Policy",
+      "href": "privacy/"
+    },
+    {
+      "text": "Terms of Use",
+      "href": "terms/"
     }
   ]
 }
