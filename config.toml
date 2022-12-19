@@ -1,5 +1,5 @@
 title = "Derecom.app"
-baseURL = "https://derecom.app"
+baseURL = "https://derecom.app/"
 languageCode = "en-us"
 
 [params]
