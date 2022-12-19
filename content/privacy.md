@@ -1,11 +1,61 @@
 ---
-title: "Privacy"
-date: 2019-03-05T15:48:24+05:30
+title: "Privacy Policy"
+date: 2022-12-19T16:47:17+05:30
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a luctus dolor, et varius nulla. Maecenas pharetra suscipit mauris, eu consectetur nunc egestas quis. Nulla efficitur eu risus sit amet maximus. Mauris eu mi eros. Sed euismod, felis ac hendrerit fermentum, massa nulla interdum enim, quis commodo mi ipsum nec leo. Cras rutrum venenatis metus vel aliquet. Nulla tincidunt sem quis dapibus lacinia. Quisque vel ipsum laoreet arcu porttitor euismod et nec elit. Morbi egestas iaculis lectus. Nam vulputate nibh ligula, imperdiet pulvinar dolor eleifend sit amet. Etiam tristique fermentum ligula sit amet convallis. Mauris quis eros vitae ipsum tempus egestas in et dui. Aliquam pretium est vel lacus commodo luctus.
+I, Giuseppe Samela, built Derecom Music Player, aka Derecom.app, as a Commercial app. The SERVICE is provided and intended for use as is.
 
-Ut eleifend vitae dui et dignissim. Curabitur vitae urna quis nunc porta eleifend non vitae eros. Curabitur vehicula libero eget auctor dictum. Donec in facilisis ligula. Sed rhoncus facilisis lacus, nec sollicitudin turpis maximus rhoncus. Donec commodo, libero eu iaculis sodales, elit quam condimentum purus, et maximus eros elit vitae massa. Etiam dui est, euismod ut eleifend quis, convallis vel turpis. Mauris tincidunt turpis id sapien porta sollicitudin. Duis facilisis sapien id justo malesuada, eu luctus mauris fringilla. Nam at ipsum diam. Ut ut arcu a arcu pretium posuere. In nec iaculis nulla, eu pretium lorem. Etiam feugiat rutrum varius. Phasellus nec risus eu erat dignissim tempus pulvinar a enim.
+This page is used to inform visitors regarding my policies around the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-Suspendisse felis justo, tincidunt a ipsum sit amet, mattis elementum nibh. In congue facilisis sem, et accumsan sem iaculis ut. Nam consequat lobortis metus, ut tempor erat iaculis et. Aliquam a semper lorem. Maecenas eu faucibus turpis. Integer vestibulum lorem eget enim posuere vehicula. Sed ut est nulla. Maecenas vitae enim viverra, semper ante nec, congue risus. Aenean sodales a nisl ac egestas. Maecenas eget ante at enim mattis consectetur. Fusce quis pretium ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse sollicitudin convallis tincidunt. Aenean hendrerit, nisl vel faucibus hendrerit, orci enim rhoncus nisi, ut lobortis metus sem tempus nibh. Integer dapibus felis nisi, quis sagittis erat ornare ut. Vivamus semper consectetur mattis.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, unless otherwise defined in this Privacy Policy.
+
+### Information Collection and Use
+
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+
+The app does use third party services that may collect information used to identify you. Link to privacy policy of third party service providers used by the app:
+
+- Apple Music (https://support.apple.com/en-us/HT204881)
+
+### Log Data
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+### Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services.
+
+### Service Providers
+
+I may employ third-party companies and individuals due to the following reasons:
+
+- To facilitate our Service;
+- To perform Service-related services; or
+- To assist us in analyzing how our Service is used.
+
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+### Security
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+### Links to Other Sites
+
+This Service may contain links to other sites, or content provided by other services. Note that these external resources are not provided or supervised by me. Therefore, I strongly advise you to review the Privacy Policy of these services. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+### Children’s Privacy
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, directly or indirectly, I immediately delete the information. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to take all necessary actions.
+
+### Changes to this Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically, as I will not notify you directly of any changes. Changes to the Privacy Policy take effect immediately after they are posted on this page.
+
+### Contact Us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at derecom.music@gmail.com.
