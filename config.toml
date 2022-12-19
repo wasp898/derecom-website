@@ -1,7 +1,6 @@
 title = "Derecom.app"
 baseURL = ""
 languageCode = "en-us"
-theme = "hugo-appyness"
 
 [params]
 showSecondSlide = false
