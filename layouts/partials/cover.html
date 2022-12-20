@@ -10,6 +10,7 @@
           src="{{- .Site.BaseURL -}}img/{{- $config.logo -}}"
           width="60px"
           alt=""
+          draggable="false"
         />
         &nbsp;&nbsp;&nbsp;&nbsp;
         <span class="font-weight-bold align-middle">
@@ -26,12 +27,14 @@
           <img
             src="{{- .Site.BaseURL -}}img/store-banners/appstore.svg"
             alt=""
+            draggable="false"
           />
         </a>
         <a target="_blank" href="{{- $config.appLinks.twitter -}}">
           <img
             src="{{- .Site.BaseURL -}}img/store-banners/twitter.svg"
             alt=""
+            draggable="false"
           />
         </a>
       </div>
@@ -40,11 +43,16 @@
     <div class="device-mockup-holder">
       <picture>
         <div class="phone-illustration-holder">
-          <img src="{{- .Site.BaseURL -}}img/device-frame.png" alt="" />
+          <img
+            src="{{- .Site.BaseURL -}}img/device-frame.png"
+            draggable="false"
+            alt=""
+          />
           <div class="product-image">
             <img
               src="{{- .Site.BaseURL -}}img/screenshots/{{- $cover.screenshot -}}"
               alt=""
+              draggable="false"
             />
           </div>
         </div>

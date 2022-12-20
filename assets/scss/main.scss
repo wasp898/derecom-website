@@ -23,10 +23,6 @@ h3 {
   font-size: 2rem;
 }
 
-.font-weight-bold {
-  font-family: "c-black", "Futura", sans-serif;
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -128,10 +124,7 @@ section {
     min-height: inherit;
     margin: 0 auto;
     padding: 0 8vw;
-
-    .titles-box {
-      padding-left: 20px;
-    }
+    user-select: none;
 
     .device-mockup-holder {
       position: relative;
@@ -142,6 +135,7 @@ section {
     .phone-illustration-holder {
       position: relative;
       z-index: 2;
+      user-select: none;
 
       img {
         width: 75%;
@@ -201,12 +195,12 @@ section {
   }
 
   section {
-    // padding: 0;
     padding: 0;
   }
   .container {
     grid-template-columns: 55% 45%;
     grid-gap: 0px;
+    user-select: none;
 
     .d-flex {
       justify-content: left;
