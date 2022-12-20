@@ -6,7 +6,6 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "c-bold", Helvetica, sans-serif;
   margin: 10px 0 10px 0;
   text-align: center;
 }
@@ -25,7 +24,7 @@ h3 {
 }
 
 .font-weight-bold {
-  font-family: "c-black", Helvetica, sans-serif;
+  font-family: "c-black", "Futura", sans-serif;
 }
 
 body {
@@ -34,7 +33,7 @@ body {
   color: #fff;
   background-color: #fff;
   border: calc(var(--body-border-width, 8px) * 1 / 1 + 0px) solid transparent;
-  font-family: "c-book", Helvetica, sans-serif;
+  font-family: "c-book", "Futura", sans-serif;
 
   &:after,
   &:before {
@@ -85,8 +84,7 @@ section {
   h3,
   h4,
   p {
-    // text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
-    text-shadow: -7px 6px 9px rgb(3, 0, 0);
+    text-shadow: 0 0 1px #000;
   }
 
   p {
