@@ -124,7 +124,6 @@ section {
     min-height: inherit;
     margin: 0 auto;
     padding: 0 8vw;
-    user-select: none;
 
     .device-mockup-holder {
       position: relative;
@@ -135,10 +134,13 @@ section {
     .phone-illustration-holder {
       position: relative;
       z-index: 2;
-      user-select: none;
 
       img {
         width: 75%;
+        user-select: none;
+        -webkit-user-drag: none;
+        -webkit-user-select: none;
+        -webkit-touch-callout: none;
       }
 
       .product-image {
@@ -200,15 +202,22 @@ section {
   .container {
     grid-template-columns: 55% 45%;
     grid-gap: 0px;
-    user-select: none;
 
     .d-flex {
       justify-content: left;
+      user-select: none;
+      -webkit-user-drag: none;
+      -webkit-user-select: none;
+      -webkit-touch-callout: none;
     }
 
     .phone-illustration-holder {
       img {
         width: 70% !important;
+        user-select: none;
+        -webkit-user-drag: none;
+        -webkit-user-select: none;
+        -webkit-touch-callout: none;
       }
       .product-image {
         img {
@@ -229,6 +238,10 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
+  user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
 
   .align-middle {
     align-self: center;
